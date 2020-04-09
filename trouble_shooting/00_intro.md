@@ -41,7 +41,8 @@ DeguのMACアドレスがAWS IoT Coreの「モノ」として登録されてい�
 
     ```
     $ wget https://open-degu.github.io/script/degu_delete_con_info.sh
-    $ sudo degu_delete_con_info.sh
+    $ chmod +x degu_delete_con_info.sh
+    $ sudo ./degu_delete_con_info.sh
     ```
 
 1. AWS IoT Core上のデバイスを削除する
