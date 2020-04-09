@@ -113,7 +113,7 @@ DeguとDeguゲートウェイは、以下の旧ソフトウェアバージョン
     * [Deguゲートウェイ A6](https://armadillo.atmark-techno.com/20200131/software-update-degu-a6)
 * Degu  
 Deguファームウェア バイナリのリリースに関しては以下を参照してください。  
-https://github.com/open-degu/degu/releases
+    * [https://github.com/open-degu/degu/releases](https://github.com/open-degu/degu/releases)
 
 ## 旧ソフトウェアを継続して利用する際の手順
 
@@ -122,7 +122,7 @@ https://github.com/open-degu/degu/releases
 ### Degu
 
 0.9.5以前のイメージを書き込んでください。  
-ファームウェアに関しては https://github.com/open-degu/degu/releases からダウンロードしてください。
+ファームウェアに関しては [https://github.com/open-degu/degu/releases](https://github.com/open-degu/degu/releases) からダウンロードしてください。
 
 ### Deguゲートウェイ
 
@@ -219,7 +219,7 @@ configuration file '/etc/coap-mqtt/mqttinfo.json'
 ## Deguファームウェアの更新
 
 [最新の状態へのアップデート](https://open-degu.github.io/user_manual/20_software_update/)の手順を参照し、Deguファームウェアを最新にしてください。
-v1.0.0-rc1のファームウェアは、https://github.com/open-degu/degu/releases/tag/v1.0.0-rc1 に存在します。
+v1.0.0-rc1のファームウェアは、[https://github.com/open-degu/degu/releases/tag/v1.0.0-rc1](https://github.com/open-degu/degu/releases/tag/v1.0.0-rc1) に存在します。
 
 ## main.py更新
 
